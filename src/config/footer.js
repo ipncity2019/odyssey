@@ -1,23 +1,23 @@
 export const footerSocials = [
   {
-    name: 'Twitter',
-    url: 'https://twitter.com/jaydanurwin',
-    icon: "mdi:twitter",
+    name: 'Instagram',
+    url: 'https://www.instagram.com/ipncity/',
+    icon: "mdi:instagram",
   },
   {
     name: 'Youtube',
-    url: 'https://youtube.com/@jaydanurwin',
+    url: 'www.youtube.com/@상표앤더시티',
     icon: "mdi:youtube",
   },
   {
-    name: 'Github',
-    url: 'https://github.com/jaydanurwin',
-    icon: "mdi:github",
+    name: 'Blog',
+    url: 'https://blog.naver.com/sangpyoandthecity',
+    icon: "mdi:naverblog",
   },
   {
-    name: 'Discord',
-    url: 'https://astro.build/chat',
-    icon: "ic:baseline-discord",
+    name: 'Kakaotalk',
+    url: 'https://pf.kakao.com/_QRxgxkj',
+    icon: "ic:kakaotalk",
   },
 ]
 
