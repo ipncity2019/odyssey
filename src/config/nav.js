@@ -4,31 +4,31 @@ export const nav = [
 		slug: '/',
 	},
 	{
-		title: 'Craft',
-		slug: '/blog',
+		title: 'IP Law Center',
+		slug: '/law',
 	},
 	{
-		title: 'Education',
-		slug: '/company/about',
+		title: 'Global IP Desk',
+		slug: '/global',
 	},
 	{
-		title: 'Legal',
-		slug: '/company/contact',
+		title: 'IP Academy',
+		slug: '/academy',
 	},
 	{
-		title: 'Marketing',
-		slug: '/',
+		title: 'Brand Studio',
+		slug: '/brand',
 	},
 	{
-		title: 'Design',
-		slug: '/blog',
+		title: 'Design Studio',
+		slug: '/design',
 	},
 	{
-		title: 'Airport',
-		slug: '/company/about',
+		title: 'Marketing Hub',
+		slug: '/marketing',
 	},
 	{
 		title: 'About Us',
-		slug: '/company/contact',
+		slug: '/company',
 	},
 ];
