@@ -6,7 +6,7 @@ export const footerSocials = [
   },
   {
     name: 'Youtube',
-    url: 'www.youtube.com/@상표앤더시티',
+    url: 'https://www.youtube.com/@상표앤더시티',
     icon: "mdi:youtube",
   },
   {
