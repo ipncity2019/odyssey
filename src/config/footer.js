@@ -12,12 +12,12 @@ export const footerSocials = [
   {
     name: 'Blog',
     url: 'https://blog.naver.com/sangpyoandthecity',
-    icon: "mdi:naverblog",
+    icon: "simple-icons:naver",
   },
   {
     name: 'Kakaotalk',
     url: 'https://pf.kakao.com/_QRxgxkj',
-    icon: "ic:kakaotalk",
+    icon: "simple-icons:kakaotalk",
   },
 ]
 
